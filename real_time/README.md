@@ -1,2 +1,0 @@
-# pythonprojeto
- Arduino em Python
